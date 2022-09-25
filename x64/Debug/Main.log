@@ -1,0 +1,9 @@
+﻿  Main.cpp
+D:\Github\C++_Spinning_Donut\Main.cpp(31,40): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+D:\Github\C++_Spinning_Donut\Main.cpp(34,44): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+D:\Github\C++_Spinning_Donut\Main.cpp(51,23): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Github\C++_Spinning_Donut\Main.cpp(54,23): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Github\C++_Spinning_Donut\Main.cpp(60,23): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Github\C++_Spinning_Donut\Main.cpp(77,25): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+D:\Github\C++_Spinning_Donut\Main.cpp(78,25): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+  Main.vcxproj -> D:\Github\C++_Spinning_Donut\x64\Debug\Main.exe
